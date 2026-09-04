@@ -2,7 +2,7 @@
 
 一个隐私优先的催促回复助手。粘贴聊天文字或截图，选择双方关系和推进力度，即可获得柔和、平衡、明确三档回复建议。
 
-在线体验：[github.com/SvenKunkka/reply-compass-cn](https://github.com/SvenKunkka/reply-compass-cn)
+项目主页：[github.com/SvenKunkka/reply-compass-cn](https://github.com/SvenKunkka/reply-compass-cn)
 
 ## 功能
 
