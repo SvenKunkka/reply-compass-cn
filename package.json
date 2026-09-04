@@ -1,6 +1,7 @@
 {
-  "name": "sites-project",
+  "name": "reply-compass-cn",
   "version": "0.1.0",
+  "description": "帮助用户在催促回复时兼顾关系与推进效果的隐私优先网页工具。",
   "private": true,
   "engines": {
     "node": ">=22.13.0"
