@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 # 回得刚刚好
 
 ## English Overview
@@ -53,3 +57,30 @@ npm run build
 ## 许可证
 
 [MIT](./LICENSE)
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+“回得刚刚好”是浏览器内运行的催促回复助手。输入聊天文字或截图，选择关系、场景和紧急程度后，生成柔和、平衡、明确三档建议，并解释措辞和下一次跟进方式。
+
+**使用入口：** 需要 Node.js 22.13 或更新版本；运行 `npm install`、`npm run dev`，打开终端显示的本地地址即可使用。
+
+**范围说明：** 当前使用本地场景规则而非联网大模型，没有账号或聊天数据库；首次 OCR 可能下载运行文件及语言数据。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+Reply Compass is a browser-based follow-up writing assistant. Given chat text or a screenshot, relationship, scenario and urgency, it offers gentle, balanced and direct replies with wording explanations and next-step suggestions.
+
+**Getting started:** Use Node.js 22.13 or newer, run `npm install` and `npm run dev`, and open the local address printed in the terminal.
+
+**Scope:** The current version uses local scenario rules rather than a hosted language model and has no account or chat database. Initial OCR use may download runtime and language assets.
+
+**仓库维护者 / Repository maintainer:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
